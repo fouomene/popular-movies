@@ -2,10 +2,7 @@
 
 
 To run code : 
-In android Strings XML , change String api_key (xxxxxxxxxxxxxxxxxxxxxxxxxx of themoviedb.org API) by your key (Line 5):
-
- <string name="api_key" translatable="false" >xxxxxxxxxxxxxxxxxxxxxxxxxx</string>
-
+In android Strings XML , change String api_key (xxxxxxxxxxxxxxxxxxxxxxxxxx of themoviedb.org API) by your key (Line 5).
 
 In this stage you’ll build the core experience of your movies app.
 
